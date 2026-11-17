@@ -1,0 +1,7 @@
+defaultConfig {
+    applicationId "com.example.digital_khata"
+    minSdk 24 // Recommended for Google Sign-In & Hive
+    targetSdk flutter.targetSdkVersion
+    versionCode flutterVersionCode.name.toInteger()
+    versionName flutterVersionName
+}
