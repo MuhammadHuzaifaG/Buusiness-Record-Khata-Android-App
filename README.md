@@ -16,12 +16,7 @@ Make sure you have the following installed on your system:
 
 ### Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/digital_khata.git](https://github.com/your-username/digital_khata.git)
-   cd digital_khata
-
-  Install dependencies:
+Install dependencies:
     Bash
     
     flutter pub get
@@ -44,6 +39,7 @@ If you have multiple devices connected, specify your target device:
     Bash
     
     flutter run -d <device_id>
+    flutter run -d chrome
 
 Step 3: Build an Android APK (Optional)
 
